@@ -67,13 +67,12 @@
         min-height: fit-content;
         gap: 2rem;
         grid-template-columns: 1fr;
-        padding: 7rem 0;
-        margin-bottom: 7rem;
         height: 50%;
     }
 
     .headerLeft p {
         margin-bottom: 1.8rem;
     }
+
 
 }

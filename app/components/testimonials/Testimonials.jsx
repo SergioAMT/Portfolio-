@@ -9,7 +9,7 @@ import 'swiper/css/scrollbar';
 
 const Testimonials = () => {
     return (
-        <section className={StyleSheet.section}>
+        <section className={styles.section}>
             <h2>Testimonials</h2>
             <p>Check out my clients and frinds say</p>
 
