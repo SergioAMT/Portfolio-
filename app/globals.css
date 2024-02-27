@@ -33,10 +33,9 @@
 main {
   background: var(--color-gray-100) url(./assets/dark-texture.png); /* 8px * 8px canvas with right-angled trangled white bg with 8% opacity */
   color: var(--color-gray-600);
-  overflow-x: hidden;
   line-height: 1.6;
-  min-height: 100vh;
 }
+
 
 main.dark {
   --color-gray-0: rgb(12, 16, 35);
